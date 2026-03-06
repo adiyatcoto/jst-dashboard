@@ -8,3 +8,5 @@ Macrohistory Database R6 (17 economies, 1870–present).
 ## Run locally
 pip install -r requirements.txt
 streamlit run jst_dash.py
+
+## "Data sourced from the JST Macrohistory Database — Jordà, Schularick & Taylor — macrohistory.net"
